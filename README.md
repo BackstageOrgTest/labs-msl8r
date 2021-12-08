@@ -1,8 +1,8 @@
 # labs-msl8r
 
 
-The application exposes health endpoints (http://localhost:80/health) and metrics endpoint
-(http://localhost:80/metrics).
+The application exposes health endpoints (http://localhost:9000/health) and metrics endpoint
+(http://localhost:9000/metrics).
 
 ## Notes
 
